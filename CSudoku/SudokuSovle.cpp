@@ -1,3 +1,12 @@
+/*********************************************
+fileName:   Sudokusovle.cpp
+description: this is a program lib that to solve sudoku
+
+@Author:    yihuiemail@163.com
+Date:       2015-8-29
+*********************************************/
+
+
 #include "SudokuSovle.h"
 
 SudokuSovle::SudokuSovle():isInited(false),
