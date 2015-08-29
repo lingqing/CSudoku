@@ -1,0 +1,12 @@
+!CSudoku/*
+bin/*
+include/*
+src/*
+*.in
+*.bak
+sudoku.*
+main.*
+*.vsd
+obj/*
+out.txt
+*out*
